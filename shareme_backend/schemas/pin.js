@@ -24,7 +24,7 @@ export default{
             type:'string',
         },
         {
-            name:'iamge',
+            name:'image',
             title:'Image',
             type:'image',
             options:{
