@@ -68,7 +68,7 @@ const CreatePin = ({user}) => {
       client.create(doc)
         .then(()=>{
           navigate('/');
-          
+          window.location.reload();
         });
     }else{
       setfields(true);
