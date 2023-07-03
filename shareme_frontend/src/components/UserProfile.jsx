@@ -77,7 +77,7 @@ const UserProfile = () => {
                 <div className='flex flex-col justify-center items-center'>
                     <img
                       src={randomImage}
-                      className='w-full h-370 2xl:h-510 shadow-lg object-cover'
+                      className='w-full h-370 2xl:h-376 shadow-lg object-cover'
                       alt='banner-picture'
                     />
                     <img
